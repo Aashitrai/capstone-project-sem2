@@ -1,0 +1,10 @@
+/* These three lines import Tailwind's base styles, component styles,
+   and utility classes. This is required for Tailwind to work. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply Poppins — a bold, rounded, stylish font — to the whole app */
+body {
+  font-family: 'Poppins', sans-serif;
+}
